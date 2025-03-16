@@ -1,0 +1,2 @@
+# QuickLuck
+Reglas Quick Luck
